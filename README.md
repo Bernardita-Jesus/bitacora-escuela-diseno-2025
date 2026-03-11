@@ -18,7 +18,7 @@ Comencé a tomar apuntes en GitHub en tercer año, durante mi quinto semestre de
 
 [Cerámica: Expresión y Funcionalidad](https://github.com/Bernardita-Jesus/bitacora-diseno-2025/tree/main/ceramica-expresion-funcionalidad)
 
-[Fabricacion digital avanzada]()
+[Fabricacion digital avanzada](https://github.com/Bernardita-Jesus/bitacora-diseno-2025/tree/main/fabricacion-digital-avanzada)
 
 ### Diplomado de Honor en Medio Ambiente
 
