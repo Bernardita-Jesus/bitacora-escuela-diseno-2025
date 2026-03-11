@@ -16,7 +16,7 @@ Comencé a tomar apuntes en GitHub en tercer año, durante mi quinto semestre de
 
 [Taller de Exposiciones Interdisciplinares](https://github.com/Bernardita-jesus/apuntes-escuela-de-diseno/tree/main/taller-exposiciones-interdisciplinares)
 
-[Cerámica: Expresión y Funcionalidad]()
+[Cerámica: Expresión y Funcionalidad](https://github.com/Bernardita-Jesus/bitacora-diseno-2025/tree/main/ceramica-expresion-funcionalidad)
 
 [Fabricacion digital avanzada]()
 
