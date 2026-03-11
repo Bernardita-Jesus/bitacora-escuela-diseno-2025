@@ -10,7 +10,7 @@ Comencé a tomar apuntes en GitHub en tercer año, durante mi quinto semestre de
 
 [Taller de Máquinas Electrónicas](https://github.com/Bernardita-jesus/dis8644-2025-1/tree/main/10-Bernardita-lobo)
 
-[Taller de Diseño de Máquinas Computacionales](https://github.com/Bernardita-jesus/dis8645-2025-02-procesos/tree/main/13-Bernardita-lobo)
+[Taller de Diseño de Máquinas Computacionales](https://github.com/Bernardita-Jesus/dis8645-2025-02-procesos/tree/main/13-Bernardita-Jesus)
 
 ### Ramos de profundización
 
