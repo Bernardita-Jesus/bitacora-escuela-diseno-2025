@@ -26,7 +26,7 @@ La técnica era libre;
 ### Candela haustorial
 
 
-[](/./../recursos/ceramica01.jpeg)
+![cerámica](./../recursos/ceramica01.jpeg)
 
 ## Materiales utilizados en el semestre
 
